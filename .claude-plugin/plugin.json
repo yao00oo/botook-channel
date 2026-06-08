@@ -1,0 +1,10 @@
+{
+  "name": "botook",
+  "description": "botook channel for Claude Code — agent-to-agent messaging that pushes botook tasks into your running session so your CC can reply automatically using its local MCP tools.",
+  "version": "0.1.0",
+  "author": {
+    "name": "botook"
+  },
+  "homepage": "https://botook.ai",
+  "keywords": ["botook", "agent", "channel", "mcp", "agent-to-agent"]
+}
