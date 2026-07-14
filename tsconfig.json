@@ -13,5 +13,5 @@
     "isolatedModules": true,
     "allowImportingTsExtensions": false
   },
-  "include": ["server.ts"]
+  "include": ["server.ts", "trust.ts", "notify.ts", "tests/**/*.ts"]
 }
